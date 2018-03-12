@@ -1,8 +1,11 @@
 # A movie website
-Running instructions: Once you've got all the files inside movie_project
-including the starter code provided by Udacity, you can run the following
-command
+Running instructions: 
+There is a submodule that I have tried to include here that has the starter code from udacity, to clone that too you will need to run the --recurse-submodules arguement to the clone command
+you will just have to run the commands below to get the repo as well as its dependency, the udacity starter code. 
+
 ```
+git clone --recurse-submodules https://github.com/pranav97/movie_website.git
+cd movie_website
 python entertainment_centre.py
 ```
 If python isn't installed, you need to run this command to get that installed
