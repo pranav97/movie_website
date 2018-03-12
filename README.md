@@ -25,3 +25,6 @@ its own inside it.
 favorite and then calls fresh_tomatos from the udacity starter code to
 generate the website. And then opens the generated website in the default
 webbrowser.
+
+## Ownership
+I only wrote the code that is contained in this repository, I did not write the html code that is making the webpage. All that starter code is a submodule of this and was provided by Udacity.com
