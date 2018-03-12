@@ -10,7 +10,7 @@ and set up
 ```
 sudo apt install python
 ```
-On windows, [click me] (https://www.python.org/downloads/) to download Python.
+On windows,[click me](https://www.python.org/downloads/ "Python downloads") to download Python.
 (You can download either 2.x or 3.x)
 
 ## File Structure
